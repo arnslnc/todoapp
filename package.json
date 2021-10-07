@@ -1,0 +1,25 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "description": "todo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnslnc/todoapp.git"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "Aranas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arnslnc/todoapp/issues"
+  },
+  "homepage": "https://github.com/arnslnc/todoapp#readme",
+  "dependencies": {
+    "pg": "^8.7.1"
+  }
+}
